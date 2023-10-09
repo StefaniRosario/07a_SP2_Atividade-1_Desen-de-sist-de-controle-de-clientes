@@ -1,0 +1,15 @@
+/Users/friends/Desktop/Documentos/Estudos/SENAI - Full-Stack /07a_SP2_Atividade 1_Desen de sist de controle de clientes/Atividade/bin/Debug/net6.0/Atividade
+/Users/friends/Desktop/Documentos/Estudos/SENAI - Full-Stack /07a_SP2_Atividade 1_Desen de sist de controle de clientes/Atividade/bin/Debug/net6.0/Atividade.deps.json
+/Users/friends/Desktop/Documentos/Estudos/SENAI - Full-Stack /07a_SP2_Atividade 1_Desen de sist de controle de clientes/Atividade/bin/Debug/net6.0/Atividade.runtimeconfig.json
+/Users/friends/Desktop/Documentos/Estudos/SENAI - Full-Stack /07a_SP2_Atividade 1_Desen de sist de controle de clientes/Atividade/bin/Debug/net6.0/Atividade.dll
+/Users/friends/Desktop/Documentos/Estudos/SENAI - Full-Stack /07a_SP2_Atividade 1_Desen de sist de controle de clientes/Atividade/bin/Debug/net6.0/Atividade.pdb
+/Users/friends/Desktop/Documentos/Estudos/SENAI - Full-Stack /07a_SP2_Atividade 1_Desen de sist de controle de clientes/Atividade/obj/Debug/net6.0/Atividade.csproj.AssemblyReference.cache
+/Users/friends/Desktop/Documentos/Estudos/SENAI - Full-Stack /07a_SP2_Atividade 1_Desen de sist de controle de clientes/Atividade/obj/Debug/net6.0/Atividade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/friends/Desktop/Documentos/Estudos/SENAI - Full-Stack /07a_SP2_Atividade 1_Desen de sist de controle de clientes/Atividade/obj/Debug/net6.0/Atividade.AssemblyInfoInputs.cache
+/Users/friends/Desktop/Documentos/Estudos/SENAI - Full-Stack /07a_SP2_Atividade 1_Desen de sist de controle de clientes/Atividade/obj/Debug/net6.0/Atividade.AssemblyInfo.cs
+/Users/friends/Desktop/Documentos/Estudos/SENAI - Full-Stack /07a_SP2_Atividade 1_Desen de sist de controle de clientes/Atividade/obj/Debug/net6.0/Atividade.csproj.CoreCompileInputs.cache
+/Users/friends/Desktop/Documentos/Estudos/SENAI - Full-Stack /07a_SP2_Atividade 1_Desen de sist de controle de clientes/Atividade/obj/Debug/net6.0/Atividade.dll
+/Users/friends/Desktop/Documentos/Estudos/SENAI - Full-Stack /07a_SP2_Atividade 1_Desen de sist de controle de clientes/Atividade/obj/Debug/net6.0/refint/Atividade.dll
+/Users/friends/Desktop/Documentos/Estudos/SENAI - Full-Stack /07a_SP2_Atividade 1_Desen de sist de controle de clientes/Atividade/obj/Debug/net6.0/Atividade.pdb
+/Users/friends/Desktop/Documentos/Estudos/SENAI - Full-Stack /07a_SP2_Atividade 1_Desen de sist de controle de clientes/Atividade/obj/Debug/net6.0/Atividade.genruntimeconfig.cache
+/Users/friends/Desktop/Documentos/Estudos/SENAI - Full-Stack /07a_SP2_Atividade 1_Desen de sist de controle de clientes/Atividade/obj/Debug/net6.0/ref/Atividade.dll
