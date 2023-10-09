@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/friends/Desktop/Documentos/Estudos/SENAI - Full-Stack /07a_SP2_Atividade 1_Desen de sist de controle de clientes/Atividade/Atividade.csproj": {}
+    "/Users/friends/Documents/GitHub/07a_SP2_Atividade-1_Desen-de-sist-de-controle-de-clientes/Atividade/Atividade.csproj": {}
   },
   "projects": {
-    "/Users/friends/Desktop/Documentos/Estudos/SENAI - Full-Stack /07a_SP2_Atividade 1_Desen de sist de controle de clientes/Atividade/Atividade.csproj": {
+    "/Users/friends/Documents/GitHub/07a_SP2_Atividade-1_Desen-de-sist-de-controle-de-clientes/Atividade/Atividade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/friends/Desktop/Documentos/Estudos/SENAI - Full-Stack /07a_SP2_Atividade 1_Desen de sist de controle de clientes/Atividade/Atividade.csproj",
+        "projectUniqueName": "/Users/friends/Documents/GitHub/07a_SP2_Atividade-1_Desen-de-sist-de-controle-de-clientes/Atividade/Atividade.csproj",
         "projectName": "Atividade",
-        "projectPath": "/Users/friends/Desktop/Documentos/Estudos/SENAI - Full-Stack /07a_SP2_Atividade 1_Desen de sist de controle de clientes/Atividade/Atividade.csproj",
+        "projectPath": "/Users/friends/Documents/GitHub/07a_SP2_Atividade-1_Desen-de-sist-de-controle-de-clientes/Atividade/Atividade.csproj",
         "packagesPath": "/Users/friends/.nuget/packages/",
-        "outputPath": "/Users/friends/Desktop/Documentos/Estudos/SENAI - Full-Stack /07a_SP2_Atividade 1_Desen de sist de controle de clientes/Atividade/obj/",
+        "outputPath": "/Users/friends/Documents/GitHub/07a_SP2_Atividade-1_Desen-de-sist-de-controle-de-clientes/Atividade/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/friends/.nuget/NuGet/NuGet.Config"
